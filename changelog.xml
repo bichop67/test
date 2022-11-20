@@ -1,0 +1,220 @@
+<rss version="2.0">
+<channel>
+<title>
+<![CDATA[ Changelog - , le MMORPG stratégique. ]]>
+</title>
+<description>
+<![CDATA[
+Plusieurs milliers de joueurs dans le monde.  est un jeu de rôle massivement multijoueur où le but est de retrouver les 6 précieux  pour devenir maître d'Amakna.
+]]>
+</description>
+<link>https://www..com/fr</link>
+<language>fr</language>
+<copyright>
+<![CDATA[ Changelog - , le MMORPG stratégique. © 2019 ]]>
+</copyright>
+<lastBuildDate>Fri, 22 Nov 2019 21:26:45 +0200</lastBuildDate>
+<pubDate>Fri, 22 Nov 2019 21:26:45 +0200</pubDate>
+<url>https://www..com/favicon.ico</url>
+<item>
+<title>
+<![CDATA[ Correctif 2.53.11.0 ]]>
+</title>
+<description>
+<![CDATA[
+<div class="ak-text"> <p>Les serveurs de jeu vont &ecirc;tre mis &agrave; jour, voici la liste des modifications apport&eacute;es :</p> <h2>QU&Ecirc;TES</h2> <ul> <li>Quatre contre un : <ul> <li>Il n&#39;est plus possible de fabriquer l&#39;attrape-cauchemar en mode coop&eacute;ratif.</li> <li>Divers probl&egrave;mes lors du combat contre les Horlemars sont corrig&eacute;s.</li> </ul> </li> </ul> </div>
+]]>
+</description>
+<link>
+<![CDATA[
+https://www..com/fr/mmorpg/actualites/maj/1054078-maitre-reves/correctifs/1067961-correctif-2-53-11
+]]>
+</link>
+<category>
+<![CDATA[  ]]>
+</category>
+<pubDate>Tue, 05 Nov 2019 10:30:00 +0200</pubDate>
+<guid isPermaLink="false">7c9eeca012cb5d228043e9272c72e0b1</guid>
+</item>
+<item>
+<title>
+<![CDATA[ Correctif 2.53.10.0 ]]>
+</title>
+<description>
+<![CDATA[
+Le 29/10/2019, le client a &eacute;t&eacute; mis &agrave; jour avec la version&nbsp;2.53.10.0<br /> &nbsp; <ul> <li>Les personnages ayant accompli les qu&ecirc;tes des anomalies temporelles peuvent s&#39;adresser &agrave; l&#39;Envoy&eacute;e de X&eacute;lor pour se voir confier une nouvelle mission : des cauchemars issus d&#39;autres &eacute;poques perturbent le sommeil des Douziens. Les sp&eacute;cialistes du monde onirique se penchent sur le probl&egrave;me&hellip; L&#39;aide des aventuriers sera appr&eacute;ci&eacute;e pour d&eacute;m&ecirc;ler le vrai du faux.</li> </ul> <h2>QU&Ecirc;TES</h2> <ul> <li>Le monde &agrave; l&#39;envers : Il est d&eacute;sormais possible d&#39;utiliser un Compagnon lors du combat final contre Kam et Tot. Les effets de certains sorts de Kam et Tot sont r&eacute;duits et leur vitalit&eacute; est &eacute;galement r&eacute;duite &agrave; certains paliers.</li> </ul>
+]]>
+</description>
+<link>
+<![CDATA[
+https://www..com/fr/mmorpg/actualites/maj/1065945-correctif-2-53-10
+]]>
+</link>
+<category>
+<![CDATA[  ]]>
+</category>
+<pubDate>Tue, 29 Oct 2019 10:15:00 +0200</pubDate>
+<guid isPermaLink="false">3c72c8c7fe810aa933d934d66d52373a</guid>
+</item>
+<item>
+<title>
+<![CDATA[ Correctif 2.53.09.0 ]]>
+</title>
+<description>
+<![CDATA[
+Le 22/10/2019, le client a &eacute;t&eacute; mis &agrave; jour avec la version&nbsp;2.53.09.0 <h2>SORTS</h2> <h3>Eniripsa</h3> <ul> <li>La mention UNKNOWN_TEXT_ID n&#39;appara&icirc;t plus sur les sorts suivants : Mot de Jouvence, Mot de R&eacute;g&eacute;n&eacute;ration, Mot Impartial.</li> </ul> <h3>Sacrieur</h3> La port&eacute;e du sort D&eacute;cimation est correctement fix&eacute;e &agrave; 1. <h2>OBJETS</h2> <ul> <li>L&#39;anneau de T&eacute;maphormose ne peut plus &ecirc;tre utilis&eacute; en dehors de la p&eacute;riode &eacute;v&eacute;nementielle de Pw&acirc;k.</li> <li>Les Harnachements Dragondinde et Muldo Steamer sont renomm&eacute;s en Harnachements Dragodinde et Muldo Mekantik.</li> </ul> &nbsp; <h2>QU&Ecirc;TES</h2> <ul> <li>Le monde &agrave; l&#39;envers : Les points de vie et les d&eacute;g&acirc;ts des monstres Kam et Tot sont r&eacute;duits. Kam g&egrave;re mieux ses sorts.</li> <li>Le plateau de Leng et L&#39;arakne de Leng : <ul> <li>Le sort du B&eacute;b&eacute; Dardalaine est divis&eacute; en deux nouveaux sorts. Le premier inflige des d&eacute;g&acirc;ts et a un intervalle de relance de deux tours, le Dardalaine perd 1 PM le tour suivant. Le deuxi&egrave;me fait perdre des PM et a un intervalle de relance de deux tours.</li> <li>Le sort du B&eacute;b&eacute; Arapex inflige des d&eacute;g&acirc;ts pendant deux tours au lieu de trois tours.</li> <li>Le sort Morsure d&#39;Arakne d&eacute;senvo&ucirc;te le personnage en plus de le soigner s&#39;il est utilis&eacute; sur un &OElig;uf d&rsquo;Arakne.</li> <li>Le sort Petite Course augmente les dommages du personnage le tour suivant.</li> </ul> </li> </ul>
+]]>
+</description>
+<link>
+<![CDATA[
+https://www..com/fr/mmorpg/actualites/maj/1063692-correctif-2-53-09
+]]>
+</link>
+<category>
+<![CDATA[  ]]>
+</category>
+<pubDate>Tue, 22 Oct 2019 10:00:00 +0200</pubDate>
+<guid isPermaLink="false">11d86bc7fe010d590b97e2eeee0e0c0a</guid>
+</item>
+<item>
+<title>
+<![CDATA[ Correctif 2.53.08.0 ]]>
+</title>
+<description>
+<![CDATA[
+<p>Le 16/10/2019, le client a &eacute;t&eacute; mis &agrave; jour avec la version 2.53.8.0 :</p> <h2>Interface</h2> <ul> <li>Le sort Manifestation de l&#39;Huppermage ne rend plus la cible invisible.</li> <li>Les effets supprimant les effets d&#39;autres sorts s&#39;affichent d&eacute;sormais correctement.</li> </ul> <h2>Divers</h2> <ul> <li>Il est de nouveau possible d&#39;activer ses ailes en zone agressable.</li> <li>Le surlignement ne disparait plus apr&egrave;s un clic sur la liste des sp&eacute;cialisations d&#39;alignement.</li> </ul>
+]]>
+</description>
+<link>
+<![CDATA[
+https://www..com/fr/mmorpg/actualites/maj/1061429-correctif-2-53-08
+]]>
+</link>
+<category>
+<![CDATA[  ]]>
+</category>
+<pubDate>Wed, 16 Oct 2019 15:15:00 +0200</pubDate>
+<guid isPermaLink="false">7ec21bf2257fcf0dc1fa3299e60276ff</guid>
+</item>
+<item>
+<title>
+<![CDATA[ Correctif 2.53.06.0 ]]>
+</title>
+<description>
+<![CDATA[
+<h2>Pr&eacute;visualisation des sorts</h2> <ul> <li>Il n&#39;y a plus d&#39;exception lorsqu&#39;une entit&eacute; est d&eacute;plac&eacute;e sur un glyphe du Capitaine Meno. La pr&eacute;visualisation s&#39;effectue normalement.</li> </ul> &nbsp; <h2>Qu&ecirc;tes</h2> <ul> <li>Simulation de Tiwaapi : la r&eacute;g&eacute;n&eacute;ration de l&#39;objectif de qu&ecirc;te ne fonctionnait pas pour les joueurs de niveau 150-159 et 170-179, c&#39;est corrig&eacute;.</li> <li>Simulation p&eacute;rilleuse : le d&eacute;lai d&#39;attente pour r&eacute;initialiser un objectif aupr&egrave;s du Tiwabbit est r&eacute;duite (24h -&gt; 12h).</li> <li>La vie en mauve : le Gobelin Gobstakl tacle moins facilement les aventuriers qui osent l&#39;affronter ; les monstres Influence malsaine et Mauvaise fr&eacute;quentation ont moins de Points de Vie.</li> <li>Le monde &agrave; l&#39;envers : la meute de Droupik est moins f&eacute;roce, et les vagues se d&eacute;clenchent un peu plus tard.</li> </ul> &nbsp; <h2>Divers</h2> <ul> <li>Le montilier Egnos prend la bonne couleur du personnage.</li> <li>Un bug permettant de contourner l&#39;&eacute;tape de mouvement dans le tutoriel de combat est corrig&eacute;.</li> <li>Lorsque l&#39;on se reconnectait dans une maison ou un enclos souterrain, les coordonn&eacute;es affich&eacute;es sur la mini-carte &eacute;taient erron&eacute;es. Ce probl&egrave;me est corrig&eacute;.</li> </ul> <br /> &nbsp;
+]]>
+</description>
+<link>
+<![CDATA[
+https://www..com/fr/mmorpg/actualites/maj/1054078-maitre-reves/correctifs/1061082-correctif-2-53-06
+]]>
+</link>
+<category>
+<![CDATA[  ]]>
+</category>
+<pubDate>Tue, 15 Oct 2019 11:30:00 +0200</pubDate>
+<guid isPermaLink="false">402fab4680d78c20d3fc518e5caea95b</guid>
+</item>
+<item>
+<title>
+<![CDATA[ Correctif 2.53.05.0 ]]>
+</title>
+<description>
+<![CDATA[
+Les serveurs de jeu ont &eacute;t&eacute; mis &agrave; jour le mardi 08 octobre avec la version 2.53.05. Voici la liste des modifications apport&eacute;es :<br /> <br /> &nbsp; <h2>Classes</h2> <h3>Ecaflip</h3> <ul> <li>Bonne &Eacute;toile, Contrecoup : les descriptions sont d&eacute;sormais &agrave; jour.</li> </ul> &nbsp; <h3>Iop</h3> <ul> <li>Les sorts Iop ajout&eacute;s ou modifi&eacute;s lors des derniers &eacute;quilibrages se voient d&eacute;sormais pourvus de nouveaux FX.</li> </ul> &nbsp; <h3>Roublard</h3> <ul> <li>Les noms et les descriptions des sorts de la M&eacute;gabombe affichaient &quot;UNKNOWN TEXT ID&quot;. Les textes sont d&eacute;sormais les bons.</li> </ul> &nbsp; <h3>X&eacute;lor</h3> <ul> <li>Heure Grave, Embaumement : les FX des sorts sont ajout&eacute;s.</li> </ul> &nbsp;&nbsp; <h2>Objets</h2> <ul> <li>Le sort d&eacute;clench&eacute; par le bouclier l&eacute;gendaire Droiture de Fallanster est modifi&eacute;e pour inclure tous les types de d&eacute;placements.</li> <li>Le poison du  &Eacute;b&egrave;ne ne peut plus &ecirc;tre appliqu&eacute; &agrave; un alli&eacute; ou &agrave; soi-m&ecirc;me.</li> </ul> &nbsp;&nbsp; <h2>Qu&ecirc;tes</h2> <h3>Le monde &agrave; l&#39;envers</h3> <ul> <li>Dans l&#39;objectif Renvoyer Droupik sur Saharach, il est d&eacute;sormais possible de d&eacute;clencher le combat contre la meute de Droupik sur la carte de la Carri&egrave;re d&#39;Astrub.</li> <li>L&#39;ankamien assoiff&eacute; donne les indications pour entrer dans l&#39;Ankabar en dehors des horaires d&#39;ouverture aux joueurs ayant d&eacute;j&agrave; valid&eacute; l&#39;objectif d&#39;entrer dans l&#39;Ankabar.</li> <li>Les joueurs ayant valid&eacute; l&#39;objectif d&#39;entrer dans l&#39;Ankabar peuvent fabriquer les boissons demand&eacute;es par l&#39;ankamien assoiff&eacute; afin d&#39;obtenir un laisser-passer pour l&#39;Ankabar, &agrave; condition qu&#39;ils ne poss&egrave;dent pas d&eacute;j&agrave; ce laisser-passer.</li> <li>Certains joueurs ne parvenaient pas &agrave; voir les objectifs des qu&ecirc;tes &#39;Simulation de Tiwagrum&#39;, &#39;Simulation de Tiwotokar&#39;, &#39;Simulation de Tiwaapi&#39;. Un correctif a &eacute;t&eacute; d&eacute;ploy&eacute;. Il est possible de r&eacute;g&eacute;n&eacute;rer la qu&ecirc;te en s&#39;adressant au Tiwabbit (valable une fois par jour).</li> <li>L&#39;ankamienne stup&eacute;fiante valide correctement la qu&ecirc;te &#39;simulation p&eacute;rilleuse&#39; lorsque les trois simulations de Tiwabbit sont accomplies.</li> <li>La qu&ecirc;te simulation p&eacute;rilleuse pourra &ecirc;tre valid&eacute;e normalement aupr&egrave;s de l&#39;ankamienne stup&eacute;fiante Les joueurs ayant d&eacute;j&agrave; accompli la qu&ecirc;te simulation p&eacute;rilleuse mais qui n&#39;auront pas valid&eacute; l&#39;objectif &#39;veiller &agrave; ce que tous les indicateurs soient au vert&#39; pourront valider cet objectif en consultant le nombre d&#39;anomalies sur l&#39;un des &eacute;crans situ&eacute;s derri&egrave;re le PNJ.</li> <li>Les &eacute;crans rouges permettent d&eacute;sormais de suivre la progression de l&#39;objectif au niveau communautaire.</li> <li>D&eacute;chets&nbsp;: ouvrir une bouteille ferm&eacute;e en verre ne consomme qu&#39;une seule bouteille.</li> <li>D&eacute;chets : le d&eacute;lai de r&eacute;cup&eacute;ration des d&eacute;chets est augment&eacute;</li> <li>La vie en mauve : les Points de Vie de Gobstakl sont revus &agrave; la baisse, et certains de ses sorts sont moins efficaces</li> </ul> &nbsp; <h2>Interface</h2> <ul> <li>Les derni&egrave;res lignes du chat ne disparaissent plus. D&#39;autres am&eacute;liorations et corrections sont &eacute;galement apport&eacute;es.</li> <li>Les infobulles s&#39;affichent correctement pour les objets d&#39;&eacute;levage dans l&#39;h&ocirc;tel des ventes.</li> <li>Les informations sur le contenu des pierres d&#39;&acirc;mes s&#39;affichent correctement dans l&#39;h&ocirc;tel des ventes.</li> </ul>
+]]>
+</description>
+<link>
+<![CDATA[
+https://www..com/fr/mmorpg/actualites/maj/1054078-maitre-reves/correctifs/1058782-correctif-2-53-05
+]]>
+</link>
+<category>
+<![CDATA[  ]]>
+</category>
+<pubDate>Tue, 08 Oct 2019 11:00:00 +0200</pubDate>
+<guid isPermaLink="false">8e079de08d1612bfd19e9758f2439e5a</guid>
+</item>
+<item>
+<title>
+<![CDATA[ Le maître des rêves ]]>
+</title>
+<description>
+<![CDATA[
+La nouvelle mise &agrave; jour  sera disponible &agrave; partir du <strong>1<sup>er</sup> Octobre</strong> !&nbsp;&Ecirc;tes-vous pr&ecirc;t &agrave; d&eacute;couvrir les myst&egrave;res qui se cachent derri&egrave;re &quot;<strong>Le Ma&icirc;tre des R&ecirc;ves</strong>&quot; ?<br /> &nbsp; <div class="embed-responsive embed-responsive-16by9 embeddedContent oembed-provider- oembed-provider-youtube" data-align="center" data-maxheight="315" data-maxwidth="560" data-oembed="https://www.youtube.com/watch?v=9oP3mUCiGf8" data-oembed_provider="youtube" data-resizetype="custom"><iframe allowfullscreen="true" allowscriptaccess="always" frameborder="0" height="315" scrolling="no" src="//www.youtube.com/embed/9oP3mUCiGf8?wmode=transparent&amp;jqoemcache=iuDTl" width="560"></iframe></div> <p class="fake">&nbsp;</p> &nbsp; <h2>Visitez  !</h2> Draconiros, le ma&icirc;tre de r&ecirc;ves, est inquiet. Une menace se profile au travers de ses r&ecirc;ves... Il vous enverra donc dans une &eacute;trange qu&ecirc;te qui vous fera visiter une contr&eacute;e de r&ecirc;verie : un monde &quot;&agrave; l&#39;envers&quot; dont les habitants se croient cr&eacute;ateurs du Monde des Douze. Pr&eacute;parez vos valises pour cet &eacute;trange voyage !<br /> &nbsp; <h2>Koliz&eacute;um Saison 5:</h2> La r&eacute;initialisation des cotes et des points de ligue&nbsp;inaugure cette 5i&egrave;me saison.<br /> <br /> <br /> &nbsp;
+]]>
+</description>
+<link>
+<![CDATA[
+https://www..com/fr/mmorpg/actualites/maj/1054078-maitre-reves
+]]>
+</link>
+<category>
+<![CDATA[  ]]>
+</category>
+<pubDate>Tue, 24 Sep 2019 17:30:00 +0200</pubDate>
+<guid isPermaLink="false">89f2616044d38672586c531cdaf4a463</guid>
+</item>
+<item>
+<title>
+<![CDATA[ Correctif 2.52.14.5 ]]>
+</title>
+<description>
+<![CDATA[
+Les serveurs de jeu ont &eacute;t&eacute; mis &agrave; jour le mardi 25 septembre avec la version 2.52.14.5. Voici la liste des modifications apport&eacute;es :<br /> &nbsp; <h2>&Eacute;venement</h2> <ul> <li>Les personnages ayant d&eacute;truit leur carte au tr&eacute;sor li&eacute;e &agrave; l&#39;&eacute;v&eacute;nement pirate peuvent en r&eacute;cup&eacute;rer une nouvelle aupr&egrave;s du PNJ Krikor Sair.</li> </ul> &nbsp; <h2>Divers</h2> <ul> <li>Des boucles d&#39;oreille en or massif sont ajout&eacute;es aux harnachements Dragodinde et Muldo disponibles dans le Pack Roublard.</li> </ul>
+]]>
+</description>
+<link>
+<![CDATA[
+https://www..com/fr/mmorpg/actualites/maj/1054566-correctif-2-52-14-5
+]]>
+</link>
+<category>
+<![CDATA[  ]]>
+</category>
+<pubDate>Tue, 24 Sep 2019 09:00:00 +0200</pubDate>
+<guid isPermaLink="false">22d4291d6599e1da9ef3774c91c11676</guid>
+</item>
+<item>
+<title>
+<![CDATA[ Correctif 2.52.14.3 ]]>
+</title>
+<description>
+<![CDATA[
+Les serveurs de jeu ont &eacute;t&eacute; mis &agrave; jour le mardi 10 septembre avec la version 2.52.14.3. Voici la liste des modifications apport&eacute;es :<br /> &nbsp; <h2>Temporis</h2> <ul> <li>L&#39;investissement en kamas demand&eacute; dans les succ&egrave;s li&eacute;s &agrave; l&#39;effort de guerre est divis&eacute; par deux.</li> </ul>
+]]>
+</description>
+<link>
+<![CDATA[
+https://www..com/fr/mmorpg/actualites/maj/1049934-correctif-2-52-14-3
+]]>
+</link>
+<category>
+<![CDATA[  ]]>
+</category>
+<pubDate>Tue, 10 Sep 2019 11:45:00 +0200</pubDate>
+<guid isPermaLink="false">345027e73618118327ffad0d48c65471</guid>
+</item>
+<item>
+<title>
+<![CDATA[ Correctif 2.52.14.2 ]]>
+</title>
+<description>
+<![CDATA[
+Les serveurs de jeu ont &eacute;t&eacute; mis &agrave; jour le mardi 03 septembre avec la version 2.52.14.2. Voici la liste des modifications apport&eacute;es :<br /> &nbsp; <h2>Songes Infinis</h2> <ul> <li>Dans certains cas, le groupe de monstres et le PNJ Portail &eacute;taient absents dans une salle de combat. Ce probl&egrave;me est corrig&eacute;.</li> </ul> &nbsp; <h2>Vulkania</h2> <ul> <li>L&#39;archipel de Vulkania ferme jusqu&#39;&agrave; l&#39;&eacute;t&eacute; prochain.</li> </ul> &nbsp; <h2>Temporis</h2> <ul> <li>Le bonus de Prospection des Disciples de Jiva &eacute;tait anormalement inf&eacute;rieur au bonus de Prospection des autres rangs et ordres. Sa valeur est corrig&eacute;e.</li> <li>Certains personnages ne pouvaient plus &ecirc;tre s&eacute;lectionn&eacute;s pour jouer. Ce probl&egrave;me est corrig&eacute;.</li> </ul>
+]]>
+</description>
+<link>
+<![CDATA[
+https://www..com/fr/mmorpg/actualites/maj/1047724-correctif-2-52-14-2
+]]>
+</link>
+<category>
+<![CDATA[  ]]>
+</category>
+<pubDate>Tue, 03 Sep 2019 11:00:00 +0200</pubDate>
+<guid isPermaLink="false">668dfa408bb1fc6695da9f428bb9038e</guid>
+</item>
+</channel>
+</rss>
